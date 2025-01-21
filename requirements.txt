@@ -1,0 +1,6 @@
+opencv-contrib-python
+numpy
+tensorflow
+imutils
+scikit-image
+scikit-learn
