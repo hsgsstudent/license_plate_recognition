@@ -23,5 +23,5 @@ However, it still has some drawbacks :worried:
 *  Performs poorly when the image is too blurry.
 
 ## Credit 
-* The model for detecting the location of the license plate in the image uses YOLOv8. The configuration file can be found at[roboflow-projects](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4)
+* The model for detecting the location of the license plate in the image uses YOLOv8. The configuration file can be found at [roboflow-projects](https://universe.roboflow.com/roboflow-universe-projects/license-plate-recognition-rxg4e/dataset/4)
 * The character recognition process is referenced and developed from [Nhận diện biển số xe Việt Nam](https://viblo.asia/p/nhan-dien-bien-so-xe-viet-nam-Do754P9L5M6)
